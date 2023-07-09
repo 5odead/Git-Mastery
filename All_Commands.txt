@@ -1,2 +1,31 @@
-Start
-vf
+## Git Commands
+
+1. git status
+Status of the working directory
+
+2. git init
+It creates a new Git repository. It can be used to convert an existing, unversioned project to a Git repository or initialize a new, empty repository.
+
+3. git add .
+Moves all files to the staging area
+
+4. git add —a
+Moves all files to the staging area.
+
+5. git commit -m “<message>”
+Commit with message
+
+6. git log
+Show git log
+
+7. git config --global user.email "<EMAIL>"
+Set Universal email for git 
+
+8. git config —global [user.name](http://user.name) “<USERNAME>”
+Set Universal username for git
+
+9. git add <FileName>
+Adds only the mentioned file to the staging area.
+
+10. git clone <LINK-TO-REPO>
+Clones git repository
